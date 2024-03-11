@@ -1,0 +1,1 @@
+Develop a simple encryptiontool for using pixel manipulation. Operation like swapping pixel values or applying a basic mathematical operation to each pixel. Allowing a user to encrypt and decrypt images. Below is a python script the pillow library for image processing. To perform this operation you need to install pillow first. pip install pillow.
